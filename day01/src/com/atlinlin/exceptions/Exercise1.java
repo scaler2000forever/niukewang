@@ -1,10 +1,10 @@
-package com.atlinlin.exer;
+package com.atlinlin.exceptions;
 
 /**
  * @ author : LiLin
  * @ create : 2022-04-13 19:05
  */
-public class exer1 {
+public class Exercise1 {
 
     public static void main(String[] args) {
         System.out.println("return value of getValue(): " + getValue());
